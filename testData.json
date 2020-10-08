@@ -1,0 +1,32 @@
+[
+        {
+            "branchID": "0",
+            "NameBranch": "Chi nhánh Đồng Nai (DNI)",
+            "locID": "0",
+            "locName": "DNDong Nai",
+            "id": "0",
+            "name": "DDDD000.001/HH",
+            "typeDevice": "A",
+            "portTotal": "0",
+            "portUsed": "0",
+            "portFree": "0",
+            "latlng": "(10,106)",
+            "Type": "0",
+            "DateUse": "2018-10-02 11:50:36.367"
+        },
+        {
+            "branchID": "0",
+            "NameBranch": "Chi nhánh Đồng Nai (DNI)",
+            "locID": "0",
+            "locName": "DNDong Nai",
+            "id": "0",
+            "name": "DDDD000.001/HH",
+            "typeDevice": "A",
+            "portTotal": "0",
+            "portUsed": "0",
+            "portFree": "0",
+            "latlng": "(10,106)",
+            "Type": "0",
+            "DateUse": "2018-10-02 11:50:36.367"
+        }
+    ]
